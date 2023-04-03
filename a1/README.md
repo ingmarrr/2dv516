@@ -3,4 +3,4 @@
 
 ## Assignment 1
 
-Currently I only have assignment 1 here cause im a dumbass.
+This is about implementing the k-NN classification algortihm.
